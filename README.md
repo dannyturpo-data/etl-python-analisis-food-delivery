@@ -34,6 +34,7 @@ GitHub	Gestión del repositorio
 
 ## 📂 Estructura del Proyecto
 
+```text
 etl-python-analisis-food-delivery/
 
 │
@@ -60,9 +61,11 @@ etl-python-analisis-food-delivery/
 ├── README.md
 │
 └── TPI_Python_ETL.pdf
-
+```
 
 ## ⚙️ Flujo ETL
+
+```text
 Extracción
 ──────────
 
@@ -107,6 +110,7 @@ SQL
 Visualizaciones
 +
 Insights de negocio
+```
 
 
 ## 🧹 Transformaciones
